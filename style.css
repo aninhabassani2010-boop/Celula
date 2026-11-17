@@ -1,3 +1,4 @@
+/* CONFIGURAÇÕES GERAIS */
 a{
     padding-right:2vh;
     color:white;
@@ -12,7 +13,11 @@ footer{
     padding-bottom:2vh;
 }
 
-/* CONFIGURAÇÕES GERAIS */
+html {
+    scroll-behavior: smooth;
+}
+
+
 p{
    justify-content: center;
 }
