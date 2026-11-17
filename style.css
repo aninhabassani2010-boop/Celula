@@ -3,6 +3,14 @@ a{
     color:white;
 }
 
+footer{
+    width:100%;
+    height: 5vh;
+    background-color:black;
+    color:white;
+    text-align:center;
+}
+
 /* CONFIGURAÇÕES GERAIS */
 p{
    justify-content: center;
