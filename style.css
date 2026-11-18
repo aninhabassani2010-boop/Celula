@@ -1,8 +1,8 @@
 /* CONFIGURAÇÕES GERAIS */
-.img_h{
-    padding-left:0.5vh;
-    width:0.5vh;
-    height:0.5vh;
+.img_h {
+    margin-left: 1vh;
+    width: 5vh; 
+    height: auto; 
 }
 a{
     padding-right:2vh;
