@@ -1,4 +1,11 @@
 /* CONFIGURAÇÕES GERAIS */
+.img_h{
+    width:7vh ;
+    height: 3vh;
+    padding-right:2vh;
+
+}
+
 a{
     padding-right:2vh;
     color:black;
