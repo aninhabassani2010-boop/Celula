@@ -1,5 +1,8 @@
 /* CONFIGURAÇÕES GERAIS */
-
+.img_h{
+    padding-left:2vh;
+    width:0.5;
+}
 a{
     padding-right:2vh;
     color:black;
