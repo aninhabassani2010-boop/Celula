@@ -17,6 +17,11 @@ a {
 .a_t {
   padding-right: 2vh;
   color: white;
+  
+}
+a:active {
+  color: #a905b8;
+  transition: color -1s;
 }
 
 footer {
@@ -25,7 +30,8 @@ footer {
   background-color: black;
   color: white;
   text-align: center;
-  padding-bottom: 2vh;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 html {
