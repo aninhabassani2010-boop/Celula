@@ -203,14 +203,11 @@ p {
 .header_m {
   background-color: #2f0141;
   width: 100%;
-  /* min-height: 80px; Evita que o texto saia para fora se quebrar em telas pequenas */
-  /* height: auto; */
+  min-height: 80px; /* Evita que o texto saia para fora se quebrar em telas pequenas */
+  height: auto;
   display: flex;
-  justify-content: flex-start;
   align-items: center;
-  height: 100px;
-  /* gap: 15px; */
-  /* padding: 15px; */
+  padding: 15px;
   color: #ffffff;
   font-size: clamp(
     1.5rem,
